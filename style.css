@@ -1,0 +1,24 @@
+/*Vertical collide*/
+h1 {
+  background-color: darkolivegreen;
+  margin-bottom: 30px;
+}
+
+h2 {
+  background-color: darkslateblue;
+  margin-top: 45px;
+}
+
+/*Child overrides margin of the parent*/
+
+/*parent*/
+div {
+  background-color: cornflowerblue;
+  margin-top: 25px;
+}
+
+/*Child*/
+p {
+  background-color: coral;
+  margin: 45px;
+}
